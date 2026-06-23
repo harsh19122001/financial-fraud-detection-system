@@ -1,0 +1,21 @@
+Dataset Name: Credit Card Fraud Detection Dataset
+
+Dataset Source:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Note:
+The original dataset has been excluded from this repository due to GitHub file size limitations.
+
+Instructions:
+1. Download the dataset from the Kaggle link above.
+2. Place the downloaded CSV file inside the data folder.
+3. Run the notebook to reproduce the analysis and model training process.
+
+Repository Includes:
+- Jupyter Notebook
+- Streamlit Application
+- Project Documentation
+- README
+- Screenshots
+
+The dataset can be obtained directly from the source and used to recreate all results presented in this project.
